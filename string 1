@@ -1,0 +1,7 @@
+#include<iostram.h>
+#include<conio.h>
+a=15;
+b=15;
+c=a+b;
+print("Enter the value of c\n");
+print(c)
