@@ -1,0 +1,13 @@
+def divide(a,b)
+  """Divide two numbers and return the result."""
+try:
+  result=a/b
+expect zerdivisiorerror:
+  print("error':division by zero")
+  else:
+    return result
+
+
+def main():
+  result=divide(3,4)
+  print(result)
